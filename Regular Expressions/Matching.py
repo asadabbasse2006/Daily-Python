@@ -6,3 +6,6 @@ print(matching)
 
 test = re.search('Asad', text)
 print(test)
+
+test = re.search('Asad', text)
+print(test)
