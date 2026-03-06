@@ -28,3 +28,6 @@ print(test)
 
 text = 'Hi, I am Asad Abbas'
 print(re.findall(pattern, text))
+
+if re.findall(pattern, text):
+    print("All the vowels in the text match the pattern are: ", re.findall(pattern, text))
