@@ -8,3 +8,4 @@ def check(string):
 
 print(check('education'))
 print(check('education%-'))
+print(check("Hello_World"))
